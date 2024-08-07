@@ -328,77 +328,8 @@
  
 }
 
-#radio1:checked~.first{
-    margin-left: 0;
-  
-}
 
-#radio2:checked~.first{
-    margin-left:-25%;
-}
-
-#radio3:checked~.first{
-    margin-left:-50%;
-}
-
-#radio4:checked~.first{
-    margin-left:-75%;
-}
-
-
-#radio5:checked~.first{
-    margin-left:-102%;
-}
-
-#radio6:checked~.first{
-    margin-left:-125%;
-}
-
-
-#radio7:checked~.first{
-    margin-left:-152%;
-}
-
-
-#radio8:checked~.first{
-    margin-left:-175%;
-}
-
-#radio9:checked~.first{
-    margin-left:-200%;
-}
-
-#radio10:checked~.first{
-    margin-left:-225%;
-}
-
-.navigation-auto div{
-    border: 2px solid #20a6ff;
-    padding: 5px;
-    border-radius: 50px;
-    cursor: pointer;
-    transition: 1s;
-    
-    
-}
-
-.navigation-auto{
-    position: absolute;
-    width: 800px;
-    margin-top: 360px;
-    display: flex;
-    justify-content: center;
-
-    position: absolute; 
-    top: 50%;
-    left:50%;
-    transform: translate(-50%, -50%); 
-
-    }
-
-    .navigation-auto div:not(:last-child){
-        margin-right:40px
-    }
+  }
 #radio1:checked~.first{
     margin-left: 0;
   
@@ -442,7 +373,81 @@
 #radio10:checked~.first{
     margin-left:-450%;
 }
-  /*  #radio1:checked~.navigation-auto.auto-btn1{
+
+
+/* -
+#radio1:checked~.first{
+    margin-left: 0;
+  
+}
+
+#radio2:checked~.first{
+    margin-left:-25%;
+}
+
+#radio3:checked~.first{
+    margin-left:-50%;
+}
+
+#radio4:checked~.first{
+    margin-left:-75%;
+}
+
+
+#radio5:checked~.first{
+    margin-left:-102%;
+}
+
+#radio6:checked~.first{
+    margin-left:-125%;
+}
+
+
+#radio7:checked~.first{
+    margin-left:-152%;
+}
+
+
+#radio8:checked~.first{
+    margin-left:-175%;
+}
+
+#radio9:checked~.first{
+    margin-left:-200%;
+}
+
+#radio10:checked~.first{
+    margin-left:-225%;
+}- */
+
+.navigation-auto div{
+    border: 2px solid #20a6ff;
+    padding: 5px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 1s;
+    
+    
+}
+
+.navigation-auto{
+    position: absolute;
+    width: 800px;
+    margin-top: 360px;
+    display: flex;
+    justify-content: center;
+
+    position: absolute; 
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%); 
+
+    }
+
+    .navigation-auto div:not(:last-child){
+        margin-right:40px
+  
+    #radio1:checked~.navigation-auto.auto-btn1{
         background-color: #fff;
     }
 
