@@ -329,53 +329,6 @@
 }
 
 
-  }
-#radio1:checked~.first{
-    margin-left: 0;
-  
-}
-
-#radio2:checked~.first{
-    margin-left:-50%;
-}
-
-#radio3:checked~.first{
-    margin-left:-100%;
-}
-
-#radio4:checked~.first{
-    margin-left:-150%;
-}
-
-
-#radio5:checked~.first{
-    margin-left:-200%;
-}
-
-#radio6:checked~.first{
-    margin-left:-250%;
-}
-
-
-#radio7:checked~.first{
-    margin-left:-300%;
-}
-
-
-#radio8:checked~.first{
-    margin-left:-350%;
-}
-
-#radio9:checked~.first{
-    margin-left:-400%;
-}
-
-#radio10:checked~.first{
-    margin-left:-450%;
-}
-
-
-/* -
 #radio1:checked~.first{
     margin-left: 0;
   
@@ -418,7 +371,7 @@
 
 #radio10:checked~.first{
     margin-left:-225%;
-}- */
+}
 
 .navigation-auto div{
     border: 2px solid #20a6ff;
