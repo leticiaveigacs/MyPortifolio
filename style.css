@@ -348,7 +348,7 @@
 
 
 #radio5:checked~.first{
-    margin-left:-102%;
+    margin-left:-100%;
 }
 
 #radio6:checked~.first{
@@ -357,7 +357,7 @@
 
 
 #radio7:checked~.first{
-    margin-left:-152%;
+    margin-left:-150%;
 }
 
 
