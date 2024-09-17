@@ -16,7 +16,7 @@ The portfolio website is designed to present information about me, my work and m
 
 Here are some screenshots of the portfolio website:
 
-![Screenshot](https://github.com/leticiaveigacs/MyPortifolio/issues/1#issue-2531405832)
+[Screenshot](https://github.com/leticiaveigacs/MyPortifolio/issues/1#issue-2531405832)
 
 
 ## Getting Started
