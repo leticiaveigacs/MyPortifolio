@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences in a visually engaging and interactive format. Below is an overview of the project and how you can get it up and running on your local machine.
 
 
-[Portifolio]()
+[Portifolio](https://github.com/leticiaveigacs/MyPortifolio)
 
 ## Project overview
 
@@ -19,7 +19,7 @@ The portfolio website is designed to present information about me, my work and m
 
 Here are some screenshots of the portfolio website:
 
-[Video]([https://github.com/leticiaveigacs/MyPortifolio/issues/1#issue-2531405832](https://github.com/leticiaveigacs/MyPortifolio/issues/2#issue-2531535416))
+[Video](https://github.com/leticiaveigacs/MyPortifolio/issues/2#issue-2531535416)
 
 
 ## Getting Started
